@@ -1,1 +1,1 @@
-# Learning-Motor-Skills-from-User's-Demonstration
+# Learning Motor Skills from User's Demonstration
